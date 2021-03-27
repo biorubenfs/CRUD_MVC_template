@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "605ef5de1b77c1e40ae2a893"
+  },
+  "name": "spain"
+},{
+  "_id": {
+    "$oid": "605ef5f81b77c1e40ae2a8a1"
+  },
+  "name": "united kingdom"
+},{
+  "_id": {
+    "$oid": "605ef6081b77c1e40ae2a8a4"
+  },
+  "name": "france"
+}]

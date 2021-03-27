@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "605ef65f1b77c1e40ae2a8c3"
+  },
+  "name": "ruben",
+  "email": "ruben@email.com",
+  "age": 23,
+  "country_id": {
+    "$oid": "605ef5de1b77c1e40ae2a893"
+  }
+},{
+  "_id": {
+    "$oid": "605ef6a31b77c1e40ae2a8e4"
+  },
+  "name": "georgina",
+  "email": "georgina@email.com",
+  "age": 45,
+  "country_id": {
+    "$oid": "605ef5f81b77c1e40ae2a8a1"
+  }
+}]
